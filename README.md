@@ -1,15 +1,3 @@
-# sketchzpire-portflio
-# 👋 Hi there, I’m @PugazhTheHacker
-
-search https://sketchzpire-art-gallery.netlify.app/
-
-If you're using this project and want to set up authentication, here’s how:
-
-### 🛠️ Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-
-
-
 
 
 ### 🔑 Steps for Authentication
